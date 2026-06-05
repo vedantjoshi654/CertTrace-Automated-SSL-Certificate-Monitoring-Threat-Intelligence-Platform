@@ -1,0 +1,2 @@
+# CertTrace-Automated-SSL-Certificate-Monitoring-Threat-Intelligence-Platform
+CertTrace is an automated threat intelligence platform that proactively detects phishing infrastructure by monitoring SSL/TLS Certificate Transparency logs. Combining real-time ingestion, active OSINT hunting, heuristic scoring, and network enrichment, it empowers analysts via unified dashboards to neutralize threats before attacks launch.
